@@ -1,15 +1,15 @@
 def addition(a, b):
     # '''
     # Input:
-    #   -a: 실수 값 (Integer of float)
-    #   -b: 실수 값 (Integer of float)
+   5 #   -a: 실수 값 (Integer or float)
+    #   -b: 실수 값 (Integer or float)
     # Output:
     #   -두 값의 합
     # Examples:
     #   >>> addition(3,5)
     #   8
     #   >>> addition(3,2)
-    #   5
+    #   
     # '''
     # pass
     # ===Modify codes below=============
@@ -24,8 +24,8 @@ def addition(a, b):
 def minus(a, b):
     # '''
     # Input:
-    #   -a: 실수 값 (Integer of float)
-    #   -b: 실수 값 (Integer of float)
+    #   -a: 실수 값 (Integer or float)
+    #   -b: 실수 값 (Integer or float)
     # Output:
     #   -두 값의 차
     # Examples:
@@ -47,8 +47,8 @@ def minus(a, b):
 def multiplication(a, b):
     # '''
     # Input:
-    #   -a: 실수 값 (Integer of float)
-    #   -b: 실수 값 (Integer of float)
+    #   -a: 실수 값 (Integer or float)
+    #   -b: 실수 값 (Integer or float)
     # Output:
     #   -두 값의 곱
     # Examples:
@@ -70,8 +70,8 @@ def multiplication(a, b):
 def division(a, b):
     # '''
     # Input:
-    #   -a: 실수 값 (Integer of float)
-    #   -b: 실수 값 (Integer of float)
+    #   -a: 실수 값 (Integer or float)
+    #   -b: 실수 값 (Integer or float)
     # Output:
     #   -a를 b로 나눈 값
     # Examples:
